@@ -1,6 +1,6 @@
 # UnPark – Parkinson’s Mobility Assistant
 
-**UnPark** is an AI-powered wearable system designed to assist individuals with Parkinson’s Disease who experience **Freezing of Gait (FOG)**. Built for the **McMaster MedSprint Hackathon** (March 2025), this project bridges AI, wearable devices, and healthcare. The system detects freezing episodes using an **ankle-mounted accelerometer**, then provides real-time **vibrational cues** to help restore movement.
+UnPark is an **AI-powered wearable device** designed to assist individuals with Parkinson’s Disease who experience **Freezing of Gait (FOG)**. Built for the **McMaster MedSprint Hackathon** (March 2025), this project bridges AI, wearable devices, and healthcare. The system detects freezing episodes using an **ankle-mounted accelerometer**, then provides real-time **vibrational cues** to help restore movement.
 
 The solution combines hardware and software, featuring a **Raspberry Pi**, real-time Flask server, and an iOS companion app built with **Swift** and **Firebase** integration.
 
