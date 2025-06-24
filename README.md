@@ -8,7 +8,7 @@ The solution combines hardware and software, featuring a **Raspberry Pi**, real-
 ## 🔍 Explore
 
 🎥 [Demo](https://www.youtube.com/watch?v=U3_JdsC1bM8&ab_channel=YashPanchal)  
-[Slideshow Presentation](Unpark - MedSprint Pitch.pptx)
+[Slideshow Presentation](Unpark-MedSprint_Pitch.pptx)
 
 ---
 
