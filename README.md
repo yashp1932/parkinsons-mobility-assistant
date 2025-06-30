@@ -23,30 +23,14 @@ UnPark is an **AI-powered wearable device** designed to assist Parkinson’s pat
 - **SocketIO Integration** for real-time data transmission over Wi-Fi
 - **iOS App Support** for episode logging, analytics, and clinical sharing
 - **Customizable Sensitivity** to minimize false positives
-
 ---
 
-## 🔧 Hardware Components
+## 🛠️ Tech Stack
 
-- Raspberry Pi 4
-- MPU6050 Accelerometer Module
-- Vibration Motor Module
-- Battery Pack (portable use)
-- Ankle Strap Mounting Assembly
+- **Hardware:** Raspberry Pi 4 · MPU6050 Accelerometer · Vibration Motor · Battery Pack · Ankle Strap Mounting  
+- **Software:** Python · Flask · Flask-SocketIO · eventlet · Swift (iOS) · Firebase · mpu6050 Python sensor library
 
 ---
-
-## 🧪 Software Stack
-
-- `Python`
-- `Flask` + `Flask-SocketIO`
-- `eventlet`
-- `Swift` (iOS)
-- `Firebase` (for data storage & sync)
-- `mpu6050` Python sensor library
-
----
-
 ## ⚙️ How It Works
 
 1. The ankle-mounted device reads 3D accelerometer data continuously.
