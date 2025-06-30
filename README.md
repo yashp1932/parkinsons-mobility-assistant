@@ -10,7 +10,6 @@ UnPark is an AI-powered wearable device designed to assist Parkinson’s patient
 
 ---
 
----
 ## 🔍 Explore
 
 🎥 [Demo](https://www.youtube.com/watch?v=U3_JdsC1bM8&ab_channel=YashPanchal)      
