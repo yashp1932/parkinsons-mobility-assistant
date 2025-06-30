@@ -1,8 +1,14 @@
 # UnPark – Parkinson’s Mobility Assistant
 
-UnPark is an **AI-powered wearable device** designed to assist individuals with Parkinson’s Disease who experience **Freezing of Gait (FOG)**. Built for the **McMaster MedSprint Hackathon** (March 2025), this project bridges AI, wearable devices, and healthcare. The system detects freezing episodes using an **ankle-mounted accelerometer**, then provides real-time **vibrational cues** to help restore movement.
+## ⚙️ Summary
 
-The solution combines hardware and software, featuring a **Raspberry Pi**, real-time Flask server, and an iOS companion app built with **Swift** and **Firebase** integration.
+UnPark is an AI-powered wearable device designed to assist Parkinson’s patients experiencing Freezing of Gait (FOG). Using an ankle-mounted MPU6050 accelerometer and a Raspberry Pi 4, it detects freezing episodes with 95% accuracy and provides instant haptic vibration cues to help restore movement. The system integrates real-time data transmission via Flask-SocketIO and features an iOS companion app for logging, analytics, and clinical sharing.
+
+**Tech Stack:** Raspberry Pi 4 · MPU6050 Accelerometer · Vibration Motor · Python · Flask · Flask-SocketIO · Swift (iOS) · Firebase  
+
+**Key Features:** Real-time freeze detection · Instant haptic cueing · Real-time event syncing · Customizable sensitivity · iOS app for analytics and clinical reports.
+
+---
 
 ---
 ## 🔍 Explore
