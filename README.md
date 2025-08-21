@@ -67,7 +67,6 @@ Features:
 - Shareable clinical reports
 
 **Note: The app repo is hosted separately and available upon request.**
----
 
 
 
