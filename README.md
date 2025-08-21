@@ -23,6 +23,15 @@ UnPark is an **AI-powered wearable device** designed to assist Parkinson’s pat
 - **SocketIO Integration** for real-time data transmission over Wi-Fi
 - **iOS App Support** for episode logging, analytics, and clinical sharing
 - **Customizable Sensitivity** to minimize false positives
+  
+---
+
+## 📈 Results
+- Achieved **95% detection accuracy** in controlled testing
+- Delivered **sub-100ms** response time for haptic feedback
+- Enabled **real-time event syncing** between hardware and mobile app
+- Successfully demonstrated at the McMaster MedSprint Hackathon 2025
+
 ---
 
 ## 🛠️ Tech Stack
@@ -68,14 +77,6 @@ Features:
 - Shareable clinical reports
 
 **Note: The app repo is hosted separately and available upon request.**
-
----
-## 📈 Results
-- Achieved **95% detection accuracy** in controlled testing
-- Delivered **sub-100ms** response time for haptic feedback
-- Enabled **real-time event syncing** between hardware and mobile app
-- Successfully demonstrated at the McMaster MedSprint Hackathon 2025
-
 ---
 
 
