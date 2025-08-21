@@ -16,16 +16,6 @@ UnPark is an **AI-powered wearable device** designed to assist Parkinson’s pat
 
 ---
 
-## 🧠 Key Features
-
-- **Real-time Freeze Detection** using motion and derivative-based analysis with 95% accuracy
-- **Instant Haptic Cueing** via vibration motor to unfreeze motion
-- **SocketIO Integration** for real-time data transmission over Wi-Fi
-- **iOS App Support** for episode logging, analytics, and clinical sharing
-- **Customizable Sensitivity** to minimize false positives
-  
----
-
 ## 📈 Results
 - Achieved **95% detection accuracy** in controlled testing
 - Delivered **sub-100ms** response time for haptic feedback
